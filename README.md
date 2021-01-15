@@ -4,7 +4,6 @@ Sometimes some sort algorithms don't work correctly.I am already checking this i
 The program runs very long for large inputs. I usually tried with numbers around 5.
 
 I didn't implement WSClock and SC.
-I didn't part3.
 
 Here are the commands I tried as an example :
 
